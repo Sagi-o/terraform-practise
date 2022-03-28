@@ -1,8 +1,9 @@
 # terraform-practise
 AWS Infrastructure using Terraform
 
-# commands:
+# Commands
 terraform init
+
 terraform plan
 
 terraform apply --auto-approve
